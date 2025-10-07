@@ -4,6 +4,7 @@ compatibility_date = "2024-09-01"
 [env.production]
 name = "katelyatv"
 
+
 [env.production.vars]
 # 存储类型配置
 NEXT_PUBLIC_STORAGE_TYPE = "d1"
